@@ -1,0 +1,453 @@
+{
+  "deck": [
+    {
+      "name": "SHA",
+      "suit": "HEARTS",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "DIAMONDS",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "CLUBS",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "SPADES",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "HEARTS",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "DIAMONDS",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "CLUBS",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "SPADES",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "HEARTS",
+      "rank": 3,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "DIAMONDS",
+      "rank": 3,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "CLUBS",
+      "rank": 3,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "SPADES",
+      "rank": 3,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "HEARTS",
+      "rank": 4,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "DIAMONDS",
+      "rank": 4,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "CLUBS",
+      "rank": 4,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "SPADES",
+      "rank": 4,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "HEARTS",
+      "rank": 5,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "DIAMONDS",
+      "rank": 5,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "CLUBS",
+      "rank": 5,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "SPADES",
+      "rank": 5,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "HEARTS",
+      "rank": 6,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "DIAMONDS",
+      "rank": 6,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "CLUBS",
+      "rank": 6,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "SPADES",
+      "rank": 6,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "HEARTS",
+      "rank": 7,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "DIAMONDS",
+      "rank": 7,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "CLUBS",
+      "rank": 7,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "SPADES",
+      "rank": 7,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "HEARTS",
+      "rank": 8,
+      "count": 1
+    },
+    {
+      "name": "SHA",
+      "suit": "DIAMONDS",
+      "rank": 8,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "HEARTS",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "DIAMONDS",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "CLUBS",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "SPADES",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "HEARTS",
+      "rank": 3,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "DIAMONDS",
+      "rank": 3,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "CLUBS",
+      "rank": 3,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "SPADES",
+      "rank": 3,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "HEARTS",
+      "rank": 4,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "DIAMONDS",
+      "rank": 4,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "CLUBS",
+      "rank": 4,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "SPADES",
+      "rank": 4,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "HEARTS",
+      "rank": 5,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "DIAMONDS",
+      "rank": 5,
+      "count": 1
+    },
+    {
+      "name": "SHAN",
+      "suit": "CLUBS",
+      "rank": 5,
+      "count": 1
+    },
+    {
+      "name": "TAO",
+      "suit": "HEARTS",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "TAO",
+      "suit": "DIAMONDS",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "TAO",
+      "suit": "CLUBS",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "TAO",
+      "suit": "SPADES",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "TAO",
+      "suit": "HEARTS",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "TAO",
+      "suit": "DIAMONDS",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "TAO",
+      "suit": "CLUBS",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "TAO",
+      "suit": "SPADES",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "WU_XIE_KE_JI",
+      "suit": "SPADES",
+      "rank": 11,
+      "count": 1
+    },
+    {
+      "name": "WU_XIE_KE_JI",
+      "suit": "CLUBS",
+      "rank": 11,
+      "count": 1
+    },
+    {
+      "name": "WU_XIE_KE_JI",
+      "suit": "SPADES",
+      "rank": 12,
+      "count": 1
+    },
+    {
+      "name": "WU_XIE_KE_JI",
+      "suit": "CLUBS",
+      "rank": 12,
+      "count": 1
+    },
+    {
+      "name": "NAN_MAN_RU_QIN",
+      "suit": "SPADES",
+      "rank": 7,
+      "count": 1
+    },
+    {
+      "name": "NAN_MAN_RU_QIN",
+      "suit": "CLUBS",
+      "rank": 7,
+      "count": 1
+    },
+    {
+      "name": "NAN_MAN_RU_QIN",
+      "suit": "SPADES",
+      "rank": 8,
+      "count": 1
+    },
+    {
+      "name": "WAN_JIAN_QI_FA",
+      "suit": "HEARTS",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "JUE_DOU",
+      "suit": "SPADES",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "JUE_DOU",
+      "suit": "CLUBS",
+      "rank": 1,
+      "count": 1
+    },
+    {
+      "name": "JUE_DOU",
+      "suit": "SPADES",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "QING_GANG_JIAN",
+      "suit": "SPADES",
+      "rank": 6,
+      "count": 1
+    },
+    {
+      "name": "ZHU_GE_LIAN_NU",
+      "suit": "HEARTS",
+      "rank": 7,
+      "count": 1
+    },
+    {
+      "name": "REN_WANG_DUN",
+      "suit": "SPADES",
+      "rank": 2,
+      "count": 1
+    },
+    {
+      "name": "JIN_GONG_MA",
+      "suit": "HEARTS",
+      "rank": 5,
+      "count": 1
+    },
+    {
+      "name": "FANG_YU_MA",
+      "suit": "SPADES",
+      "rank": 5,
+      "count": 1
+    }
+  ],
+  "players": [
+    {
+      "name": "主公",
+      "character_name": "BAI_BAN_WU_JIANG",
+      "identity": "LORD",
+      "control_type": "SIMPLE_AI"
+    },
+    {
+      "name": "反贼1",
+      "character_name": "ZHANG_FEI",
+      "identity": "REBEL",
+      "control_type": "SIMPLE_AI"
+    },
+    {
+      "name": "忠臣",
+      "character_name": "ZHAO_YUN_1",
+      "identity": "LOYALIST",
+      "control_type": "SIMPLE_AI"
+    },
+    {
+      "name": "反贼2",
+      "character_name": "LV_MENG",
+      "identity": "REBEL",
+      "control_type": "SIMPLE_AI"
+    },
+    {
+      "name": "内奸",
+      "character_name": "LING_CAO",
+      "identity": "TRAITOR",
+      "control_type": "AI"
+    }
+  ],
+  "game": {
+    "shuffle_deck": true
+  }
+}
